@@ -1,4 +1,7 @@
 # FireWay
+
+This is official repo of **FireWay** team from Experimental Rocketry Cup contest of NAURocket.
+
 Trello: https://trello.com/b/3SsS0pPG/fire-way-nau-rocket-champ  
 OpenRocket: http://openrocket.info/  
 Google Drive: https://drive.google.com/drive/folders/15i2QNfWR1fMiNTOSlicCC4KZfkefgg0c?usp=sharing  
